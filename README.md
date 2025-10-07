@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- This is purely for my Github Streak, I want to paint on it!  -->
+
+</div>
+
+![头像](image/头像.jpg)
