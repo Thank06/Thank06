@@ -1,0 +1,22 @@
+{
+  "name": "snk",
+  "description": "Generates a snake game from a github user contributions grid",
+  "version": "3.3.0",
+  "private": true,
+  "repository": "github:platane/snk",
+  "devDependencies": {
+    "@types/bun": "1.2.2",
+    "prettier": "3.5.1",
+    "typescript": "5.7.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "type": "tsc --noEmit",
+    "lint": "prettier -c '**/*.{ts,js,json,md,yml,yaml}' '!packages/*/dist/**' '!svg-only/dist/**'",
+    "dev:demo": "( cd packages/demo ; npm run dev )",
+    "build:demo": "( cd packages/demo ; npm run build )",
+    "build:action": "( cd packages/action ; npm run build )"
+  }
+}
