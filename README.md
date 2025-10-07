@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 </div>
 
-![头像](image/头像.jpg)
+![图片](image/图片.jpg)
 
 <p></p>
 
-![头像](image/1.gif)
+![动态](image/动态.gif)
