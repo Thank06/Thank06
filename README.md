@@ -73,4 +73,5 @@ Here are some ideas to get you started:
 ![头像](image/头像.jpg)
 
 <p></p>
-<div align="center"> <img src="http://i0.hdslb.com/bfs/new_dyn/1ff36732d121a1c78b9155282c741f3d1493192317.gif" /> </div>
+
+![头像](image/1.gif)
