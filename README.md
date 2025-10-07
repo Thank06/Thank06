@@ -50,5 +50,3 @@ Here are some ideas to get you started:
 </div>
 
 ![头像](image/头像.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/{Thank06}/count.svg)
