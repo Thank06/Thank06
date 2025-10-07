@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- This is purely for my Github Streak, I want to paint on it!  -->
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,json,svg,threejs,php,python,java,nodejs,npm,mysql,docker,git,github,githubcopilot,githubpages,ubuntu,windows,visualstudiocode,vercel,android,telegram,wordpress,bing,googlechrome,firefox,steam,ollama,claudeai,cohere,chatgpt,deepseek,googlegemini,grok,cursor,capcut,homeassistant,windsurf,x" /><br>
 <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -64,8 +67,7 @@ Here are some ideas to get you started:
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,json,svg,threejs,php,python,java,nodejs,npm,mysql,docker,git,github,githubcopilot,githubpages,ubuntu,windows,visualstudiocode,vercel,android,telegram,wordpress,bing,googlechrome,firefox,steam,ollama,claudeai,cohere,chatgpt,deepseek,googlegemini,grok,cursor,capcut,homeassistant,windsurf,x" /><br>
+
 </div>
 
 ![头像](image/头像.jpg)
